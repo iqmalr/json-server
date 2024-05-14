@@ -1,5 +1,5 @@
 {
-   "categories": [
+  "categories": [
     {
       "id": 1,
       "name": "Makanan"
@@ -84,7 +84,7 @@
       "price": "10000",
       "name": "Es Jeruk",
       "totalPrice": 20000,
-      "note": "asem",
+      "note": "asem bgt",
       "productId": "3",
       "id": 1
     }
@@ -115,77 +115,6 @@
       "detail[2][productId]": "5",
       "detail[2][id]": "3",
       "id": 1
-    },
-    {
-      "date": "2024-01-12T04:42:59.048Z",
-      "total": "55000",
-      "detail[0][qty]": "1",
-      "detail[0][price]": "15000",
-      "detail[0][name]": "Nasi Goreng",
-      "detail[0][totalPrice]": "15000",
-      "detail[0][note]": "",
-      "detail[0][productId]": "1",
-      "detail[0][id]": "1",
-      "detail[1][qty]": "1",
-      "detail[1][price]": "20000",
-      "detail[1][name]": "Ayam Goreng",
-      "detail[1][totalPrice]": "20000",
-      "detail[1][note]": "",
-      "detail[1][productId]": "2",
-      "detail[1][id]": "2",
-      "detail[2][qty]": "2",
-      "detail[2][price]": "10000",
-      "detail[2][name]": "Es Jeruk",
-      "detail[2][totalPrice]": "20000",
-      "detail[2][note]": "",
-      "detail[2][productId]": "3",
-      "detail[2][id]": "3",
-      "id": 2
-    },
-    {
-      "date": "2024-01-12T04:43:08.303Z",
-      "total": "35000",
-      "detail[0][qty]": "1",
-      "detail[0][price]": "10000",
-      "detail[0][name]": "Es Jeruk",
-      "detail[0][totalPrice]": "10000",
-      "detail[0][note]": "",
-      "detail[0][productId]": "3",
-      "detail[0][id]": "1",
-      "detail[1][qty]": "1",
-      "detail[1][price]": "25000",
-      "detail[1][name]": "Sate Ayam",
-      "detail[1][totalPrice]": "25000",
-      "detail[1][note]": "",
-      "detail[1][productId]": "6",
-      "detail[1][id]": "2",
-      "id": 3
-    },
-    {
-      "date": "2024-05-13T04:32:36.767Z",
-      "local": "85000",
-      "detail[0][qty]": "1",
-      "detail[0][price]": "25000",
-      "detail[0][name]": "Sate Ayam",
-      "detail[0][totalPrice]": "25000",
-      "detail[0][note]": "",
-      "detail[0][productId]": "6",
-      "detail[0][id]": "1",
-      "detail[1][qty]": "4",
-      "detail[1][price]": "10000",
-      "detail[1][name]": "Es Jeruk",
-      "detail[1][totalPrice]": "40000",
-      "detail[1][note]": "",
-      "detail[1][productId]": "3",
-      "detail[1][id]": "2",
-      "detail[2][qty]": "1",
-      "detail[2][price]": "20000",
-      "detail[2][name]": "Ayam Goreng",
-      "detail[2][totalPrice]": "20000",
-      "detail[2][note]": "",
-      "detail[2][productId]": "2",
-      "detail[2][id]": "3",
-      "id": 4
     }
   ]
 }
